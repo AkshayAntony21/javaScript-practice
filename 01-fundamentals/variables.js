@@ -8,4 +8,3 @@ console.log(age);
 console.log(country);
 console.log(typeof(age));
 console.log(typeof(country));
-feag
